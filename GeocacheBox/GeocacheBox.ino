@@ -51,7 +51,7 @@ int address = 0;                           //the number of attempts is stored in
 
 
 
-//Santa Monica Pier, 25 miles from house
+//Santa Monica Pier, ## miles from house
 const float destinationLat = 34.007426;           //latitude of destination (Santa Monica Pier) in DEGREES
 const float destinationLong = 118.499823;         //positive longitude of Santa Monica Pier in DEGREES
 const float NemaDestinationLat = 3400.4456;      //NEMA sentance latitude for Santa Monica Pier
@@ -61,7 +61,7 @@ const float NemaDestinationLong = 11829.9894;    //NEMA sentance longitude for S
 
 
 /*
-//Luxor, Las Vegas, 36.095511,-115.176033, 212.5 miles from house
+//Luxor, Las Vegas, 36.095511,-115.176033, ## miles from house
 const float destinationLat = 36.095511;           //latitude of destination in DEGREES
 const float destinationLong = 115.176033;         //positive longitude in DEGREES
 const float NemaDestinationLat = 3605.73066;      //NEMA sentance latitude
